@@ -1,0 +1,217 @@
+body,h1,h2,h3,h4,h5,h6{
+    font-family: 'Kodchasan', sans-serif;
+}
+img{
+    max-width: 100%;
+}
+
+/* navbar-section */
+.navbar-section{
+
+}
+.navbar-section li{
+    margin-left: 15px;
+}
+
+.brake{
+    margin-top: 8px;
+    margin-left: 15px;
+    color: rgb(150, 200, 243);
+}
+/* Slider Section */
+.slider-section {
+    background: url(img/slider-1.jpg) no-repeat center center;
+    padding: 200px 0;
+}
+.slider-bottom{
+    content: '';
+    left: 0;
+    background: url(img/sliderOver.png) no-repeat center center;
+    object-fit: cover;
+    margin-top: 60px;
+    width: 100%;
+    height: 225px;
+    position: absolute;   
+}
+
+/* Product Section */
+.product-title{
+    margin-bottom: 100px;
+}
+.product-section{
+    padding-top: 100px;
+
+}
+.product-item{
+   
+   height: 250px; 
+   box-sizing: content-box;
+   box-shadow: 2.5px 4px 30px 0 rgba(64,87,191,0.1);
+}
+.product-img{
+    height: 70%;
+}
+.product-dtls{
+    height: 30%;
+    text-align: center;
+}
+.product-rate{
+    font-size: 12px;
+}
+
+/* Approach Section */
+.approach-title{
+    margin-bottom: 25px;
+    margin-bottom: 100px;
+}
+.approach-section{
+    padding-top: 100px;
+
+}
+.approach-item-d{
+   margin-bottom: -25px;
+   /* height: 500px;  */
+}
+ .approach-img img{
+     height: 550px;
+     padding-bottom: 45px;
+}
+.approach-dtls{
+    position: absolute;
+} 
+
+/* Retailer Section */
+.retailer-title{
+    margin-bottom: 100px;
+}
+.retailer-section{
+    margin-top: 100px;
+    background-color: rgb(235, 233, 233);
+    padding: 100px 0;
+    margin-bottom: 200px;
+
+}
+.retailer-item{
+   
+   height: 400px; 
+}
+.retailer-img img{
+   height: 350px;
+   border-radius: 10px;
+}
+.retailer-dtls{
+    
+}
+
+/* To Enjoy Section */
+.toenjoy-section {
+    padding-top: 0;
+}
+.toenjoy h1{
+   margin-top: -100px;    
+}
+.toenjoy-caption{
+    padding: 20px;
+}
+.toenjoy-caption h6{
+    font-size: small;
+}
+.toenjoy img{
+    no-repeat center center
+    position: center;
+}
+
+/* Unusual Section */
+.unusual-section{
+    background-color: rgb(235, 233, 233);
+    padding: 100px 0;
+
+
+}
+.unusual-item{
+   
+   height: 350px; 
+}
+.unusual-img img{
+   height: 350px;
+   border-radius: 10px;
+}
+.unusual-name p{
+    font-size: 14px;
+    
+}
+
+/* Client Section */
+.client-title{
+    margin-bottom: 0px;
+}
+.client-section{
+    padding: 100px 0;
+}
+.client-item{
+   
+   height: 300px; 
+}
+.client-img{
+    height: 30%;
+}
+.client-dtls{
+    height: 70%;
+    text-align: center;
+}
+.client-img img{
+    
+}
+
+.client-img h6{
+    font-size: small;
+}
+
+/* Footer Section */
+.footer-section{
+    padding: 100px 0;
+    background-color: rgb(53, 50, 50);
+}
+.pro-list{
+    list-style: none;
+    padding: 0;
+    margin: 0; 
+    padding-top: 20px;
+    margin-right: 40px;
+}
+.pro-list li a{ 
+    text-decoration: none !important;
+    margin: 0 0;
+    padding: 0 0;
+    color: rgb(148 150 150);
+}
+.foot-list{
+    padding-right: 120px;
+}
+.foot-news{
+    margin-top: 45px;
+}
+.foot-copy{
+    margin-top: 12px solid red;
+}
+.foot-copy p{
+    margin-top: 20px;
+    margin-left: -172px;
+    color: rgb(148 150 150) ;
+} 
+.icon{
+    margin-top: 20px;
+    
+
+}   
+
+.foot-map{
+    height: 250px;
+    width: 500px;
+}
+.foot-map-frame{
+     border: 10px solid #585555; 
+    border-radius: 25px;
+}
+
+
