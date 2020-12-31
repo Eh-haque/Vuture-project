@@ -24,14 +24,10 @@ img{
     height: 650px;
     width: 1400px;
 }
-.conta-iner{
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    width: 250px;
-    right: 600px;
-    padding-bottom: 240px;
-    margin-left: 140px;
+.contain{
+    margin-left: -50px;
+    float: left;
+    margin-bottom: 192px;
     text-align: left;
 }
 .slider-bottom{
