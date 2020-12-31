@@ -19,16 +19,10 @@ img{
     color: rgb(150, 200, 243);
 }
 /* Slider Section */
-.carousel-item {
-    height: 650px;
-    color: white;
-    position: relative;
-}
-.car-item{
-   max-height: 650px;
-}
+
 .car-item img{
-    max-width: 1600px;
+    height: 650px;
+    width: 1400px;
 }
 .conta-iner{
     position: absolute;
@@ -97,7 +91,7 @@ img{
 
 /* Retailer Section */
 .retailer-title{
-    margin-bottom: 100px;
+    margin-bottom: 50px;
 }
 .retailer-section{
     margin-top: 100px;
