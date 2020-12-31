@@ -28,6 +28,7 @@ img{
     position: absolute;
     bottom: 0;
     left: 0;
+    width: 250px;
     right: 600px;
     padding-bottom: 240px;
     margin-left: 140px;
@@ -75,17 +76,17 @@ img{
     margin-bottom: 100px;
 }
 .approach-section{
-    padding-top: 100px;
+    padding-top: 50px;
 
-}
-.approach-item-d{
-   margin-bottom: -25px;
-   /* height: 500px;  */
 }
  .approach-img img{
      height: 550px;
-     padding-bottom: 45px;
+     margin-bottom: -25px;
 }
+.tara-div{
+    margin-top: 50px;
+}
+
 .approach-dtls{
     position: absolute;
 } 
@@ -150,6 +151,9 @@ img{
 .unusual-name p{
     font-size: 14px;
     
+}
+.unusual-dtls{
+
 }
 
 /* Client Section */
