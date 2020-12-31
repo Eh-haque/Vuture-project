@@ -29,8 +29,9 @@ img{
     bottom: 0;
     left: 0;
     right: 600px;
-    padding-bottom: 350px;
-    float: left;
+    padding-bottom: 240px;
+    margin-left: 140px;
+    text-align: left;
 }
 .slider-bottom{
     content: '';
