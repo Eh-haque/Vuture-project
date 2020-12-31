@@ -60,7 +60,7 @@ img{
 }
 .product-item{
    
-   height: 250px; 
+   height: 300px; 
    box-sizing: content-box;
    box-shadow: 2.5px 4px 30px 0 rgba(64,87,191,0.1);
 }
@@ -140,13 +140,14 @@ img{
 /* Unusual Section */
 .unusual-section{
     background-color: rgb(235, 233, 233);
-    padding: 100px 0;
+    padding-top: 100px;
 
 
 }
 .unusual-item{
    
    height: 350px; 
+   margin-bottom: 100px;
 }
 .unusual-img img{
    height: 350px;
