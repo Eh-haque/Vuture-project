@@ -21,7 +21,6 @@ img{
 /* Slider Section */
 .carousel-item {
     height: 650px;
-    background: turquoise;
     color: white;
     position: relative;
 }
